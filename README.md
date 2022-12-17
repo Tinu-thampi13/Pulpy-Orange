@@ -1,4 +1,4 @@
-# Pulpy_Orange README
+# Pulpy-Orange README
 
 Welcome to the Best Orange theme for Visual Studio Code! This extension gives your editor a fresh, modern look with vibrant oranges and warm, earthy tones.
 
