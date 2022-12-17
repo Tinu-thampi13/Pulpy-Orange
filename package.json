@@ -4,6 +4,22 @@
   "description": "Most highest rated theme for developers",
   "version": "0.0.1",
   "publisher": "Tinuthampi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tinu-thampi13/Pulpy-Orange"
+  },
+  "keywords": [
+    "best",
+    "best theme",
+    "theme",
+    "themes",
+    "pulp",
+    "pulpy",
+    "orange",
+    "pulpy orange",
+    "orange theme",
+    "orange colour"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -13,9 +29,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "ultimate-theme",
+        "label": "Pulpy-orange",
         "uiTheme": "vs-dark",
-        "path": "./themes/ultimate-theme-color-theme.json"
+        "path": "./themes/Pulpy-Orange.json"
       }
     ]
   }
